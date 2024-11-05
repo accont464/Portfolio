@@ -1,0 +1,13 @@
+
+      body {
+        background-color: black;
+        color: white;
+        position: absolute;
+        font-family: monospace;
+      }
+      img {
+        width: 30%;
+      }
+      p {
+        font-family: sans-serif;
+      }
